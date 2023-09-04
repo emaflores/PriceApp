@@ -66,7 +66,7 @@ http://localhost:8080/swagger-ui/index.html
 
 ## Pruebas
 
-Para ejecutar las pruebas incluidas en el proyecto, utiliza el siguiente comando Maven:
+Para ejecutar las pruebas incluidas en el proyecto, primero hay que detener el proyecto si se esta ejecutando para que la base de datos este disponible, luego utilizar el siguiente comando Maven:
 
 ```
 mvn test
