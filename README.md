@@ -111,4 +111,4 @@ La aplicación se iniciará y estará disponible para ser probada en, por ejempl
 
 ## Conclusiones
 
-Esta aplicación Spring Boot cumple con los requisitos del desafío propuesto por Inditex y se enfoca en la gestión de precios de productos de manera eficiente y robusta. La estructura organizada del proyecto, la calidad del código y las pruebas aseguran su fiabilidad y rendimiento. Además, la aplicación es fácil de ejecutar y de utilizar gracias a la documentación de la API y a la base de datos H2 integrada. Por último, la aplicación se puede ampliar fácilmente para incluir nuevas funcionalidades y requisitos. 
+Esta aplicación Spring Boot cumple con los requisitos del desafío propuesto por Inditex y se enfoca en la gestión de precios de productos de manera eficiente y robusta. La estructura organizada del proyecto, la calidad del código y las pruebas aseguran su fiabilidad y rendimiento.
