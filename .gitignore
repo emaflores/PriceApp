@@ -1,0 +1,59 @@
+# IDE/Editor specific files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.log
+*.log.*
+.idea_modules/
+.ideaCodeStyles/
+.DS_Store
+
+# Gradle specific
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Maven specific
+target/
+*.iml
+.idea/
+*.iws
+*.log
+*.log.*
+.idea_modules/
+.DS_Store
+
+# Spring Boot specific
+mvnw
+mvnw.cmd
+target/
+!spring-boot-starter/
+!spring-boot-starter-test/
+
+# Logs
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Application properties
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-*.yml
+
+# Compiled Java classes
+target/
+
+# Bytecode
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# External libraries (e.g., JAR files) that are installed by your IDE
+lib/
